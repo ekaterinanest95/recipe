@@ -1,13 +1,13 @@
 html {
     font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту */
     font-family: 'Roboto', sans-serif;
-    background-color: #FFEFD5;
+    background-color: #11f0c0;
    }
    
    body {
     width: 600px;
     margin: 0 auto;
-    background-color: #FFE4B5;
+    background-color: #8eeec6;
     padding: 0 20px 20px 20px;
     border: border: 2px solid white;
    }
@@ -20,6 +20,18 @@ html {
    
    img {
     display: block;
-    margin: 2 auto;
+    margin: 20 auto;
     width: 400px;
+   }
+
+   #my-id {
+    margin: 0;
+    padding: 20px 0;
+    color: #23165a;
+   }
+
+   ul {
+    margin: 0;
+    padding: 20px 0;
+    color: #261866;
    }
